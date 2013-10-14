@@ -1,4 +1,3 @@
-Solutions to Project Euler in Ruby, JavaScript, Java
+Solutions to Project Euler in Ruby, JavaScript, Java... Mainly Ruby
 
-Parker Ferguson
 
