@@ -6,8 +6,8 @@ What is the smallest positive number that is evenly divisible by all of the numb
 	
 =end
 
-require 'rational'							# Easy fix for finding least comment multiplier (LCM)
+require 'rational'						
 
-divisors = Array (1..20)					# Declare an Array number 1 - 20
-smallest_number = divisors.inject(:lcm)		# Declare a variable that contains the LCM of all items in the array
-puts smallest_number						# Display it out. 
+divisors = Array (1..20)				
+smallest_number = divisors.inject(:lcm)	
+puts smallest_number					
